@@ -5,8 +5,11 @@
 [![Astro 5 Ready](https://img.shields.io/badge/Astro-5.0+-BC52EE.svg?style=flat-square&logo=astro)](https://astro.build)
 [![Chrome Built-in AI](https://img.shields.io/badge/Chrome_AI-Gemini_Nano-4285F4.svg?style=flat-square&logo=google-chrome)](https://developer.chrome.com/docs/ai/built-in)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6.svg?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code.brandonhubbard.com-brightgreen?logo=github)](https://code.brandonhubbard.com/astro-prefetch-ai-brief/)
 
 > **Next-generation prefetching for Astro.** Generates predictive, ultra-compact (15-word) floating previews when visitors hover over links using on-device Chrome Built-in AI (`window.ai.summarizer`).
+
+> 🎮 **Live Interactive Visualizer & Demo:** [astro-prefetch-ai-brief on code.brandonhubbard.com](https://code.brandonhubbard.com/astro-prefetch-ai-brief/)
 
 ---
 
